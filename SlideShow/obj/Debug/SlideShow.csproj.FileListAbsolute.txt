@@ -1,0 +1,12 @@
+C:\Users\TaiNS\source\repos\SlideShow\SlideShow\bin\Debug\SlideShow.exe.config
+C:\Users\TaiNS\source\repos\SlideShow\SlideShow\bin\Debug\SlideShow.exe
+C:\Users\TaiNS\source\repos\SlideShow\SlideShow\bin\Debug\SlideShow.pdb
+C:\Users\TaiNS\source\repos\SlideShow\SlideShow\obj\Debug\SlideShow.csprojAssemblyReference.cache
+C:\Users\TaiNS\source\repos\SlideShow\SlideShow\obj\Debug\SlideShow.Properties.Resources.resources
+C:\Users\TaiNS\source\repos\SlideShow\SlideShow\obj\Debug\SlideShow.csproj.GenerateResource.cache
+C:\Users\TaiNS\source\repos\SlideShow\SlideShow\obj\Debug\SlideShow.csproj.CoreCompileInputs.cache
+C:\Users\TaiNS\source\repos\SlideShow\SlideShow\obj\Debug\SlideShow.exe
+C:\Users\TaiNS\source\repos\SlideShow\SlideShow\obj\Debug\SlideShow.pdb
+C:\Users\TaiNS\source\repos\SlideShow\SlideShow\obj\Debug\SlideShow.Form1.resources
+C:\Users\OS\source\repos\SlideShow\SlideShow\obj\Debug\SlideShow.exe
+C:\Users\OS\source\repos\SlideShow\SlideShow\obj\Debug\SlideShow.pdb
